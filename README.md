@@ -1,8 +1,5 @@
 # Anatomical Nose Landmarks Extractor
 
-**Author:** Dilip Goswami
-**Affiliation:** MSc in Geodesy and Geoinformation Science, TU Berlin
-
 ## Overview
 
 `noseLandmarksExtraction.py` is a Python research script for extracting anatomical nose landmark proposals and dense nasal surface templates from 3D human face meshes.
