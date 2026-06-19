@@ -292,6 +292,7 @@ These flags should be reviewed before using the measurements in downstream analy
 This research script is intended for experimental 3D facial analysis, visualization, and measurement pre-processing.
 
 It is not a medical device and does not provide diagnosis, treatment planning, or automated clinical assessment. All landmark proposals and measurements should be reviewed before use in scientific or publication workflows.
+
 ## Limitations
 
 * Landmark quality depends on mesh resolution, orientation, completeness, and noise level.
@@ -333,19 +334,9 @@ pillow
 
 ## Author
 
-**Dilip Goswami**  
-MSc in Geodesy and Geoinformation Science  
+**Dilip Goswami**
+MSc in Geodesy and Geoinformation Science
 Technical University of Berlin
-
-## License
-
-Add the selected project license here.
-
-Example:
-
-```text
-MIT License
-```
 
 ## Disclaimer
 
