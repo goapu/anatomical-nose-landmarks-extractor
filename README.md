@@ -336,8 +336,8 @@ pillow
 
 ## Author
 
-Dilip Goswami
-MSc in Geodesy and Geoinformation Science
+Dilip Goswami,
+MSc in Geodesy and Geoinformation Science,
 Technical University of Berlin
 
 ## License
